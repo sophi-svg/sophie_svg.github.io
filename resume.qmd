@@ -12,7 +12,7 @@ Business Analyst, Marketer, Fast Learner
 
 ## Currently
 
-Deveoping proficiency in analysis at BYU-Idaho. Fascinated by the intersection of analytics and storytelling; where accurate data meets skillful presentation. 
+Developing proficiency in analysis at BYU-Idaho. Fascinated by the intersection of analytics and storytelling; where accurate data meets skillful presentation. 
 
 ### Specialized in
 
@@ -25,7 +25,7 @@ Excel Expertise: Advanced formulas, macros, automation, data visualization
 
 ### Education and Experience
 
-Brigham Young University - Idaho
+**Brigham Young University - Idaho**
 Full-Time Student | Rexburg, ID *September 2020 - Present*
 Developed and optimized relational databases with MySQL
 Applied data visualization techniques using Power BI and RStudio for class projects
@@ -33,19 +33,19 @@ Designed an invoice tracking system in Excel with macro automation for email inv
 Created reports with Python and SQL in Visual Studio Code
 
 
-Brigham Young University - Idaho
+**Brigham Young University - Idaho**
 Teacher's Assistant | Rexburg, ID *January 2025 - Present*
 Reviewed and graded Excel-based assignments, reinforcing attention to detail and data
 accuracy
 
-Integrated Business Core - "Gelly" Jar Candles
+**Integrated Business Core - "Gelly" Jar Candles**
 Chief Operating Officer | Rexburg, ID *April 2024 - July 2024*
 Led operations and presented business strategy to investors, securing startup funding
 Spearheaded materials acquisition and inventory tracking using Excel, ensuring audit
 compliance
 Implemented data-driven decision-making processes to enhance operational efficiency
 
-Idahoan Foods
+**Idahoan Foods**
 Marketing Intern | Idaho Falls, ID *April 2022 - July 2022*
 Created informational reports utilizing Adobe Illustrator
 Developed an infographic video on local mountain ranges to demonstrate familiarity with
@@ -60,12 +60,12 @@ design principles and Adobe Creative Cloud software
 
 ### Volunteer Experience
 
-Church of Jesus Christ of Latter-Day Saints
+**Church of Jesus Christ of Latter-Day Saints**
 Volunteer Representative | Mesa, AZ *September 2022 - February 2024*
 Strengthened communication, leadership, and collaboration skills through daily interactions
 and service
 
-Get Connected - Brigham Young University Idaho
+**Get Connected - Brigham Young University Idaho**
 Student Support Representative | Rexburg, ID *April 2021*
 Organized and led service activities, assisting incoming students in acclimating to BYU-I
 Assisted with event logistics and team coordination, showcasing leadership skills
