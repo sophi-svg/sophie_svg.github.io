@@ -1,89 +1,76 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sophie Miller's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sophie Miller
+Business Analyst, Marketer, Fast Learner
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div>
+<a href="mil20014@byui.edu">mil20014@byui.edu</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Deveoping proficiency in analysis at BYU-Idaho. Fascinated by the intersection of analytics and storytelling; where accurate data meets skillful presentation. 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Database Management: MySQL, relational database design
+Data Processing & Analysis: SQL queries, Power BI, RStudio
+Programming: Python (data visualization with Let’s Plot), Visual Studio Code
+Process Improvement: Report generation, workflow optimization
+Excel Expertise: Advanced formulas, macros, automation, data visualization
 
 
-### Research interests
+### Education and Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Brigham Young University - Idaho
+Full-Time Student | Rexburg, ID *September 2020 - Present*
+Developed and optimized relational databases with MySQL
+Applied data visualization techniques using Power BI and RStudio for class projects
+Designed an invoice tracking system in Excel with macro automation for email invoicing
+Created reports with Python and SQL in Visual Studio Code
 
 
-## Education
+Brigham Young University - Idaho
+Teacher's Assistant | Rexburg, ID *January 2025 - Present*
+Reviewed and graded Excel-based assignments, reinforcing attention to detail and data
+accuracy
 
-`1654-1660`
-__The King's School, Grantham.__
+Integrated Business Core - "Gelly" Jar Candles
+Chief Operating Officer | Rexburg, ID *April 2024 - July 2024*
+Led operations and presented business strategy to investors, securing startup funding
+Spearheaded materials acquisition and inventory tracking using Excel, ensuring audit
+compliance
+Implemented data-driven decision-making processes to enhance operational efficiency
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+Idahoan Foods
+Marketing Intern | Idaho Falls, ID *April 2022 - July 2022*
+Created informational reports utilizing Adobe Illustrator
+Developed an infographic video on local mountain ranges to demonstrate familiarity with
+design principles and Adobe Creative Cloud software
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2021'
+1st Place Winner 2021 *Pre-Professional Writing Conference*
 
 
+### Volunteer Experience
 
-## Publications
+Church of Jesus Christ of Latter-Day Saints
+Volunteer Representative | Mesa, AZ *September 2022 - February 2024*
+Strengthened communication, leadership, and collaboration skills through daily interactions
+and service
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Get Connected - Brigham Young University Idaho
+Student Support Representative | Rexburg, ID *April 2021*
+Organized and led service activities, assisting incoming students in acclimating to BYU-I
+Assisted with event logistics and team coordination, showcasing leadership skills
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025-->
